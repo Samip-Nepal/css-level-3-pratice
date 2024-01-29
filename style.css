@@ -1,13 +1,11 @@
-#Box1{
+div{
     height: 100px;
     width: 100px;
-    background-color:yellow;
-    font-size:20px ;
+    background-color: aqua;
+    border:2px solid black ;
+    display: inline-block;
 }
-#Box2{
-    background-color: green;
-    margin-bottom:10% ;
-    font-size:2em ;
-    width: 3rem;
-    height: 50vh;
+#box1{
+    position: static;
+    top: 20px;
 }
