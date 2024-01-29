@@ -2,9 +2,13 @@
     height: 100px;
     width: 100px;
     background-color:yellow;
+    font-size:20px ;
 }
 #Box2{
     height: 50px;
     width: 30%;
     background-color: green;
+    margin-bottom:10% ;
+    font-size:2em ;
+    width: 3em;
 }
