@@ -9,3 +9,8 @@ div{
     position: static;
     top: 20px;
 }
+#box2{
+position: relative;
+top: 20px;
+right: 10px;
+}
