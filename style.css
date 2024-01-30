@@ -15,8 +15,8 @@ top: 20px;
 right: 10px;
 }
 #box3{
-    position: absolute;
-    top: 10px;
+    position: sticky;
+    top: 500px;
     right: 20px;
 }
 #box4{
