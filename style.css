@@ -6,23 +6,5 @@ div{
     display: inline-block;
 }
 #box1{
-    position: static;
-    top: 20px;
-    z-index: 1;
-}
-#box2{
-position: relative;
-top: 20px;
-right: 10px;
-z-index: -1;
-}
-#box3{
-    position: relative;
-    top: 100px;
-    right: -20px;
-}
-#box4{
-    position: fixed;
-    top:20px;
-
+background-image: url(/css-level-3-pratice/sara-cervera-KOYn9A_a_wY-unsplash.jpg);
 }
